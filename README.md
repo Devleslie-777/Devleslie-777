@@ -54,3 +54,9 @@
 ### ✦ Thanks for visiting! ✦
 
 </div>
+
+<p align="center">
+  <img src="https://media.tenor.com/dTKGGqcjHbgAAAAi/no-i%27m-not-a-human-ninah.gif" width="150">
+   <img src="https://media1.tenor.com/m/21faRQqDN0UAAAAC/grayscale-guy-grayscale-guy-ninah.gif" width="150">
+  <img src="https://media.tenor.com/OuYRvCSGC8UAAAAi/no-i%27m-not-a-human-ninah.gif" width="150">
+</p>
